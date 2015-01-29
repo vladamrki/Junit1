@@ -8,7 +8,7 @@ public class AppTest {
 	@Test
 	public void testPrintHelloWorld() {
  
-		Assert.assertEquals(App.getHelloWorld(), "Hello World");
+		Assert.assertEquals(App.getHelloWorld(), "Helo World");
  
 	}
  
