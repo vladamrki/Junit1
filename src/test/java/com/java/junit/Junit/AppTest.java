@@ -14,7 +14,7 @@ public class AppTest {
 	@Test
 	public void testPrintHelloWorld1() {
 		 
-		Assert.assertEquals(App.getHelloWorld2(), "Hello World2");
+		Assert.assertEquals(App.getHelloWorld2(), "Hello World 2");
  
 	}
  
